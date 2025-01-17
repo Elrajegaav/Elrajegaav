@@ -3,7 +3,7 @@
 - 🌱 I’m currently following the Odin Project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: jarlevaage@gmail.com
-- 😄 Pronouns: !
+- 😄 Pronouns: He
 - ⚡ Fun fact: I love to ski in the mountains.
 
 <!---
